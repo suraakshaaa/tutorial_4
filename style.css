@@ -143,6 +143,7 @@ input:focus {
     font-size: 1rem;
     cursor: pointer;
     color: var(--color-text);
+    white-space: nowrap;
     transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
 }
 
